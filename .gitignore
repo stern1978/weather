@@ -1,0 +1,7 @@
+config.py
+config.js
+alerts.json
+current.json
+forecast.json
+inside.json
+.DS_Store
